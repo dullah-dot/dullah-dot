@@ -4,11 +4,15 @@
 
 **Web Developer · IT Consultant · IoT & Automation Enthusiast**
 
-<a href="https://www.youtube.com/@HamdullahDbt" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="32" alt="youtube"/></a>
+<a href="https://www.youtube.com/@HamdullahDbt" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="28" height="28" alt="youtube"/></a>
 &nbsp;
-<a href="https://www.instagram.com/hamdullah_debta" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram"/></a>
+<a href="https://www.instagram.com/hamdullah_debta" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" height="28" alt="instagram"/></a>
 &nbsp;
-<a href="https://www.facebook.com/share/16fdLpM8DW/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="32" alt="facebook"/></a>
+<a href="https://www.facebook.com/share/16fdLpM8DW/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="28" height="28" alt="facebook"/></a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hamdullahdebta&color=0A0A0A&style=flat&label=Profile+Views)
 
 </div>
 
@@ -27,6 +31,9 @@ Open to open-source collaboration, IoT innovation, or anything that's worth the 
 ---
 
 ### Featured Projects
+
+**Geely Jogja — Official Dealer Landing Page**
+Led frontend development and UI/UX for an official Geely dealer website, working within a 3-person team (frontend/UI-UX, DevOps, backend). Built an interactive multi-model vehicle showcase featuring wireframe-mode component annotations, tabbed switching across three car models, and fully responsive mobile layouts — all implemented as a static, dependency-free component with no backend coupling. Also contributed to deployment troubleshooting, diagnosing production path and server-routing issues across the team's shared hosting environment.
 
 **KKB BRI — Vehicle Financing Landing Page & Admin Dashboard**
 Designed the frontend architecture and UX flow for a vehicle-financing product landing page paired with an admin dashboard. Focused on understanding the target customer profile to shape an information flow that was easy to read and simple to navigate.
@@ -57,7 +64,7 @@ An independent full-stack boilerplate product (Next.js + Express.js + MySQL) fea
 ### Achievements & Leadership
 
 **Academic Competitions**
-🥇 Gold Medal — Indonesian Language | 🥇 Gold Medal — Civics (PPKN) | 🥈 Silver Medal — Biology | 🥈 Silver Medal — Health Sciences
+🥇 Gold Medal — Indonesian Language &nbsp;·&nbsp; 🥇 Gold Medal — Civics (PPKN) &nbsp;·&nbsp; 🥈 Silver Medal — Biology &nbsp;·&nbsp; 🥈 Silver Medal — Health Sciences
 
 **Leadership & Organizational Experience**
 - Led a class business venture (*danus*) team — responsible for product selection, product design, and team delegation.
@@ -70,27 +77,30 @@ An independent full-stack boilerplate product (Next.js + Express.js + MySQL) fea
 ### Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=3776AB)
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hamdullahdebta&show_icons=true&hide_border=true&theme=transparent&title_color=0A0A0A&icon_color=0A0A0A&text_color=6B6B6B&hide_rank=true" height="165" alt="github stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdullahdebta&hide_border=true&theme=transparent&background=00000000&stroke=0A0A0A&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A&sideLabels=6B6B6B&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=6B6B6B" height="165" alt="github streak"/>
+
 </div>
 
 ---
